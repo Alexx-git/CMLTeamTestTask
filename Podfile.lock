@@ -1,0 +1,20 @@
+PODS:
+  - BoxView (1.7.2)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - BoxView
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - BoxView
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  BoxView: 7fcca8b5568f3234bd255cd4cca179398e5e5767
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: 71d36e733a73ddb02e61fccfcf7d1b78a7829485
+
+COCOAPODS: 1.10.0

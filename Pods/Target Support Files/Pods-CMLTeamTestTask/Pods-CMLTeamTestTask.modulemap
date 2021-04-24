@@ -1,0 +1,6 @@
+framework module Pods_CMLTeamTestTask {
+  umbrella header "Pods-CMLTeamTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
